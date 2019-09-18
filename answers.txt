@@ -29,4 +29,4 @@ a typical merge.If Master has not diverged, instead of creating a new commit, gi
 
 3. Branches make git lightweight as it just stores the reference unlike other version control systems which copies files.
 
-4. 0 remote repositories.
+4. Many remote repositories.
